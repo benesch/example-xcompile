@@ -1,0 +1,6 @@
+name: docker-play
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: Example of multi-arch Docker builds
